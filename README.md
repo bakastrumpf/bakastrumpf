@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a published linguist, lexicographer, translator and English teacher accidentally lost in Java, trying to find a way out; struggling with JavaScript&PHP mess!
+
+What you'll find here is a summary of my IT journey.
+
 <!--
 **bakastrumpf/bakastrumpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +20,23 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-A published linguist, lexicographer, translator and English teacher accidentally lost in Java, trying to find a way out; struggling with JavaScript mess!!
+• Profile: Multilingual full-stack Java & JavaScript web apps developer and software engineer with 10+ years of diverse CMS and content development experience, from teaching English, translation, interpreting, social media management, content management to graphic design and web development.
+• Expertise: backend & frontend, website development, copywriting, proofreading, basics of SEO, contact linguistics, practical lexicography and dictionary making.
+• Education: MA in English language and literature, BA in English language and literature (both from University of Novi Sad, Serbia), full-stack Java Certificate (from Vojvodina ICT Cluster).
 
+# 💫 Core competencies:
+
+• web apps development • backend programming • software engineering • content strategy • copywriting  • copy editing • proofreading • digital marketing management • digital content strategy • content management systems (CMS) • SEO • social media management • community management • leadership • team management
+
+# 💫 Key career achievements:
+
+• Tech-savvy Linux enthusiast and a full-stack software engineer skilled in both backend, frontend and databases, i.e. Java, JavaScript and MySQL, focusing on web apps development, who successfully combines her linguistic expertise with strong IT skills to produce highest quality code
+• Worked on various websites in both English and Serbian, mostly freelance, in the field of copywriting and content management, content strategy and planning, for clients from around the world in fields as various as luxury real estate, health and medical tourism, ecology, fitness, house painting, arts, sports, etc.
+• Started a career as an English teacher and translator, advanced to copywriting and social media management; along the way developed interest in IT and graphic design (to complement the CMS work) with a desire to fully switch to web apps development and become a professional software engineer who leads significant digital and IT projects in the internet-of-data world
+
+# 💫 Technical skills:
+
+• Java • web apps • Object-oriented programming • MySQL • Spring framework • Spring Boot • Maven • Hibernate • UML • HTML • CSS • JavaScript • React • PHP • CodeIgniter • Git • GitHub • Eclipse • MySQL Workbench • Postman • Visual Studio Code • Linux Mint OS • Terminal • REST APIs • JPA • AOP • JSON Web Token • OAuth2 • WordPress • Elementor Block Builder • CMS
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marija-savic-966554135/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19721966) 
