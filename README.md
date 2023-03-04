@@ -20,7 +20,7 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Generate the user stats image
-      uses: cicirello/user-statistician@v1
+      uses: bakastrumpf/user-statistician@v1
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         
