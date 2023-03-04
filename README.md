@@ -2,29 +2,7 @@
 
 I am a published linguist, lexicographer, translator and English teacher accidentally lost in Java, trying to find a way out; struggling with JavaScript&PHP mess!
 
-What you'll find here is a summary of my IT journey.
-
-
-name: user-statistician
-
-on:
-  schedule:
-    - cron: '0 3 * * *'
-  workflow_dispatch:
-
-jobs:
-  stats:
-    runs-on: ubuntu-latest
-      
-    steps:
-    - uses: actions/checkout@v2
-
-    - name: Generate the user stats image
-      uses: bakastrumpf/user-statistician@v1
-      env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        
-        
+What you'll find here is a summary of my IT journey.    
 
 <!--
 **bakastrumpf/bakastrumpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
