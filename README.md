@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a published linguist, lexicographer, translator and English teacher accidentally lost in Java, trying to find a way out; struggling with JavaScript&PHP mess!
+I am a published linguist, lexicographer, translator and English teacher accidentally lost in Java, trying to find a way out; struggling with JavaScript&PHP mess! 
+
+My goal is to improve my skills for a full-stack developer in Java.
 
 What you'll find here is a summary of my IT journey.    
 
