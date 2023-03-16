@@ -2,7 +2,7 @@
 
 I am a published linguist, lexicographer, translator and English teacher accidentally lost in Java, trying to find a way out; struggling with JavaScript&PHP mess! 
 
-My goal is to improve my skills for a full-stack developer in Java.
+My goal is to become a quality full-stack Java developer.
 
 What you'll find here is a summary of my IT journey.    
 
