@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-• Profile: Multilingual full-stack Java & JavaScript web apps developer and software engineer with 10+ years of diverse CMS and content development experience, from teaching English, translation, interpreting, social media management, content management to graphic design and web development.
+• Profile: Multilingual <strong>full-stack Java & JavaScript web apps developer and software engineer</strong> with 10+ years of diverse CMS and content development experience, from teaching English, translation, interpreting, social media management, content management to graphic design and web development.
 • Expertise: backend & frontend, website development, copywriting, proofreading, basics of SEO, contact linguistics, practical lexicography and dictionary making.
 • Education: MA in English language and literature, BA in English language and literature (both from University of Novi Sad, Serbia), full-stack Java Certificate (from Vojvodina ICT Cluster).
 
