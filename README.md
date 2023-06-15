@@ -44,39 +44,39 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=plastic&logo=codeIgniter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 -->
 
-Programming Languages:
+# 🌱 Programming Languages:
 <p align="start">
     <img src="https://skillicons.dev/icons?i=java,js,php" />
 </p>
 
-Frameworks:
+# 🌱 Frameworks:
 <p align="start">
     <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,codeigniter" />
 </p>
 
-IDEs:
+# 🌱 IDEs:
 <p align="start">
     <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea" />
 </p>
 
-Other tools:
-<p align="start">
-    <img src="https://skillicons.dev/icons?i=wordpress,hibernate,github,git,nodejs,html,css,maven,codepen,stackoverflow,npm,apache,canva,gimp,jira" />
-</p>
-
-Testing:
+# 🌱 Testing:
 <p align="start">  
     <img src="https://skillicons.dev/icons?i=postman,selenium,gherkin,cucumber" />
 </p>
 
-Databases:
+# 🌱 Databases:
 <p align="start">
     <img src="https://skillicons.dev/icons?i=mysql,mariadb" />
 </p>
 
-OS:
+# 🌱 OS:
 <p align="start">
     <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+# 🌱 Other tools:
+<p align="start">
+    <img src="https://skillicons.dev/icons?i=html,css,maven,codepen,stackoverflow,wordpress,hibernate,github,git,nodejs,npm,apache,canva,gimp,jira" />
 </p>
 
 ## 🌐 Socials:
