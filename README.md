@@ -52,16 +52,19 @@ Frameworks:
     <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,codeigniter" />
 </p>
 
+IDEs:
+<p align="start">
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea" />
+</p>
+
 Other tools:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=wordpress,hibernate,eclipse,vscode,github,nodejs,html,css,git,jenkins,maven,postman,npm,apache,canva,gimp,jira,codepen,idea,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=wordpress,hibernate,github,git,nodejs,html,css,maven,npm,apache,canva,gimp,jira,codepen,stackoverflow" />
 </p>
 
 Testing:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gherkin,cucumber,selenium" />
-  </a>
+<p align="start">  
+    <img src="https://skillicons.dev/icons?i=postman,gherkin,cucumber,selenium" />
 </p>
 
 Databases:
@@ -70,10 +73,8 @@ Databases:
 </p>
 
 OS:
-<p align="center">
-  <a href="https://skillicons.dev">
+<p align="start">
     <img src="https://skillicons.dev/icons?i=linux" />
-  </a>
 </p>
 
 ## 🌐 Socials:
