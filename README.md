@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## Tech Stack Visualized:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=java,js,php,spring,react,bootstrap,codeigniter,eclipse,vscode,idea,postman,selenium,gherkin,cucumber,mysql,mariadb,linux,html,css,maven,codepen,wordpress,hibernate,github,git,nodejs,npm,apache,canva,gimp,jira,linkedin,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=java,js,php,spring,react,bootstrap,eclipse,vscode,idea,postman,selenium,gherkin,mysql,linux,html,css,maven,codepen,wordpress,hibernate,github,git,nodejs,linkedin,stackoverflow,codeigniter,cucumber,mariadb,npm,apache,canva,gimp,jira" />
 </p>
 
 <!--
