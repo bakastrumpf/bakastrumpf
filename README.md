@@ -61,12 +61,12 @@ IDEs:
 
 Other tools:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=wordpress,hibernate,github,git,nodejs,html,css,maven,npm,apache,canva,gimp,jira,codepen,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=wordpress,hibernate,github,git,nodejs,html,css,maven,codepen,stackoverflow,npm,apache,canva,gimp,jira" />
 </p>
 
 Testing:
 <p align="start">  
-    <img src="https://skillicons.dev/icons?i=postman,gherkin,cucumber,selenium" />
+    <img src="https://skillicons.dev/icons?i=postman,cucumber,selenium,gherkin" />
 </p>
 
 Databases:
