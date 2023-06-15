@@ -49,17 +49,31 @@ Programming Languages:
 
 Frameworks:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=spring,react,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,codeigniter" />
 </p>
 
 Other tools:
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=hibernate,nodejs,html,css,git,jenkins,maven,postman" />
+    <img src="https://skillicons.dev/icons?i=wordpress,hibernate,eclipse,vscode,github,nodejs,html,css,git,jenkins,maven,postman,npm,apache,canva,gimp,jira,codepen,idea,stackoverflow" />
+</p>
+
+Testing:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gherkin,cucumber,selenium" />
+  </a>
 </p>
 
 Databases:
 <p align="start">
     <img src="https://skillicons.dev/icons?i=mysql,mariadb" />
+</p>
+
+OS:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
 </p>
 
 ## 🌐 Socials:
