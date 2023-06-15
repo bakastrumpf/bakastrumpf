@@ -66,7 +66,7 @@ Other tools:
 
 Testing:
 <p align="start">  
-    <img src="https://skillicons.dev/icons?i=postman,cucumber,selenium,gherkin" />
+    <img src="https://skillicons.dev/icons?i=postman,selenium,gherkin,cucumber" />
 </p>
 
 Databases:
