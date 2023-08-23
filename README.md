@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 • Profile: Multilingual <strong>full-stack Java & PHP web apps developer and software engineer</strong> with 10+ years of diverse CMS and content development experience, from teaching English, translation, interpreting, social media management, content management to graphic design and web development.
 • Expertise: backend & frontend, <a href='http://steda.ca/'>website development</a>, copywriting, proofreading, basics of SEO, contact linguistics, practical lexicography and <a href='https://digitalna.ff.uns.ac.rs/sadrzaj/2021/978-86-6065-636-2'>dictionary making</a>.
-• Education: MA in English language and literature, BA in English language and literature (both from <a href='https://www.ff.uns.ac.rs/'>University of Novi Sad, Serbia</a>), full-stack Java Certificate (from <a href='https://vojvodinaictcluster.org/sr/javajuniorprogram/'>Vojvodina ICT Cluster</a>), full-stack PHP Certificate from <a href='https://www.ic.etf.bg.ac.rs/'>Belgrade ICEF</a>.
+• Education: MA in English language and literature, BA in English language and literature (both from <a href='https://www.ff.uns.ac.rs/'>University of Novi Sad, Serbia</a>), full-stack Java Certificate (from <a href='https://vojvodinaictcluster.org/sr/javajuniorprogram/'>Vojvodina ICT Cluster</a>), full-stack PHP Certificate from <a href='https://www.ic.etf.bg.ac.rs/projects/it-retraining/'>Belgrade ICEF</a>.
 
 # 💫 Core competencies:
 
