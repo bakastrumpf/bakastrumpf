@@ -2,9 +2,9 @@
 
 I am a published linguist, lexicographer, translator and English teacher accidentally lost in Java, who found herself just where she belongs while trying to find a way out; struggling with JavaScript&PHP mess! 
 
-I currently work as a <strong>Java software engineer</strong> and <strong>Release and Incident Manager</strong>. My team maintains a monolith application in use in Italian healthcare system.
-
 My goal is to become a quality <strong>full-stack Java developer</strong>.
+
+I currently work as a <strong>Java software engineer</strong> and <strong>Release and Incident Manager</strong>. My team maintains a monolith application in use in Italian healthcare system. The project, based on Java, JSP, and Oracle DB, is written in an in-house, custom ORM. We use Eclipse, Oracle SQL Developer, VMWare, SVN; as well as SIP, Microsoft planner, and Jira, together with MS Teams.
 
 What you'll find here is a summary of my IT journey.    
 
