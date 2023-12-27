@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-• Profile: Multilingual <strong>full-stack Java & PHP web apps developer and software engineer</strong> with 10+ years of diverse CMS and content development experience, from teaching English, translation, interpreting, social media management, content management to graphic design and web development.
-• Expertise: backend & frontend, <a href='http://steda.ca/'>website development</a>, copywriting, proofreading, basics of SEO, contact linguistics, <a href='https://digitalna.ff.uns.ac.rs/sadrzaj/2023/978-86-6065-802-1'>practical lexicography</a> and <a href='https://digitalna.ff.uns.ac.rs/sadrzaj/2021/978-86-6065-636-2'>dictionary making</a>.
+• Profile: Multilingual <strong>full-stack Java & PHP web apps developer and software engineer</strong> with 10+ years of diverse CMS and content development experience, from teaching English, translation, interpreting, social media management, content management to graphic design and web development. <br>
+• Expertise: backend & frontend, <a href='http://steda.ca/'>website development</a>, copywriting, proofreading, basics of SEO, contact linguistics, <a href='https://digitalna.ff.uns.ac.rs/sadrzaj/2023/978-86-6065-802-1'>practical lexicography</a> and <a href='https://digitalna.ff.uns.ac.rs/sadrzaj/2021/978-86-6065-636-2'>dictionary making</a>. <br>
 • Education: MA in English language and literature, BA in English language and literature (both from <a href='https://www.ff.uns.ac.rs/'>University of Novi Sad, Serbia</a>), full-stack Java Certificate (from <a href='https://vojvodinaictcluster.org/sr/javajuniorprogram/'>Vojvodina ICT Cluster</a>), full-stack PHP Certificate from <a href='https://www.ic.etf.bg.ac.rs/projects/it-retraining/'>Belgrade ICEF</a>.
 
 # 💫 Core competencies:
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 # 💫 Key career achievements:
 
-• Tech-savvy Linux enthusiast and a full-stack software engineer skilled in backend, frontend and databases, i.e. Java, PHP, JavaScript and MySQL, focusing on web apps development, who successfully combines her linguistic expertise with strong IT skills to produce highest quality code
-• Worked on various websites in both English and Serbian, mostly freelance, in the field of copywriting and content management, content strategy and planning, for clients from around the world in fields as various as luxury real estate, health and medical tourism, ecology, fitness, house painting, arts, sports, etc.
+• Tech-savvy Linux enthusiast and a full-stack software engineer skilled in backend, frontend and databases, i.e. Java, PHP, JavaScript and MySQL, focusing on web apps development, who successfully combines her linguistic expertise with strong IT skills to produce highest quality code <br>
+• Worked on various websites in both English and Serbian, mostly freelance, in the field of copywriting and content management, content strategy and planning, for clients from around the world in fields as various as luxury real estate, health and medical tourism, ecology, fitness, house painting, arts, sports, etc. <br>
 • Started a career as an English teacher and translator, advanced to copywriting and social media management; along the way developed interest in IT and graphic design (to complement the CMS work) with a desire to fully switch to web apps development and become a professional software engineer who leads significant digital and IT projects in the internet-of-data world
 
 # 💻 Tech Stack:
