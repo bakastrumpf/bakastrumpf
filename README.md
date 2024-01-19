@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 # 💫 Core competencies:
 
-• web apps development • backend programming • software engineering • software development • coding • DBMS <br>
-• content strategy • copywriting  • copy editing • proofreading • digital marketing management • digital content strategy • content management systems (CMS) • SEO • social media management • community management <br> 
+• web apps development • backend programming • software engineering • software development • coding • DBMS <br><br>
+• content strategy • copywriting  • copy editing • proofreading • digital marketing management • digital content strategy • content management systems (CMS) • SEO • social media management • community management <br><br>
 • team management • leadership 
 
 # 💫 Key career achievements:
