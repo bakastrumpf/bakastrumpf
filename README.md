@@ -4,7 +4,7 @@ I am a published linguist, lexicographer, translator and English teacher acciden
 
 My goal is to become a quality <b><ins>full-stack Java developer</ins></b>.
 
-I currently work as a <ins><b>Java software engineer</ins></b> and <ins><b>Release and Incident Manager</ins></b>. My team maintains a monolith application in use in Italian healthcare system. The project, based on Java, JSP, and Oracle DB, is written in an in-house, custom ORM. The app consists of multiple modules each of which can work on its own, yet only together do they make this web application fully functional. We use Eclipse, Oracle SQL Developer, VMWare, SVN; as well as SIP, Microsoft planner, Jira, and MS Teams.
+I currently work as a <b><ins>Java software engineer</ins></b> and <b><ins>Release and Incident Manager</ins></b>. My team maintains a monolith application in use in Italian healthcare system. The project, based on Java, JSP, and Oracle DB, is written in an in-house, custom ORM. The app consists of multiple modules each of which can work on its own, yet only together do they make this web application fully functional. We use Eclipse, Oracle SQL Developer, VMWare, SVN; as well as SIP, Microsoft planner, Jira, and MS Teams.
 
 What you'll find here is a summary of my IT journey.    
 
