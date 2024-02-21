@@ -99,7 +99,8 @@ Here are some ideas to get you started:
 -->
 
 ## Find me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/marija-savic-eng-shodan-java/)) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19721966) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/marija-savic-eng-shodan-java/))
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19721966) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bakastrumpf&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
